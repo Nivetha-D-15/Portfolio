@@ -1,0 +1,115 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.nav-link{
+    color: rgb(57, 158, 158);
+    font-weight: 700;
+    border-radius: 5px;
+}
+.nav-link:hover{
+    background-color: black;
+    color: rgb(52, 216, 216);
+}
+nav{
+    background-color: azure;
+}
+.nav-right{
+    text-align: right;
+}
+
+.main h3{
+    font-size: 40px;
+    font-weight: 800;
+}
+.main h3 small{
+    font-size: 30px;
+    font-weight: 600;
+}
+.img{
+    width: 400px;
+    height: 505px;
+    margin-top: 30%;
+    margin-left: 60%;
+    border-radius: 50%;
+}
+.main{
+    display: flex;
+}
+.head{
+    margin-top: 20%;
+    margin-left: 20%;
+}
+
+
+.container{
+    margin-top: 10%;
+    display: flex;
+}
+.img2{
+    height: 500px;
+    width: 400px;
+    border-radius: 5px;
+}
+.about{
+    margin-top: 10%;
+    margin-left: 5%;
+}
+.about h1{
+    font-weight: 700;
+}
+.p1{
+    font-size: 20px;
+    color: rgb(133, 130, 130);
+}
+.p2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.btn1{
+    background-color: black;
+    border: none;
+    font-size: 18px;
+    height: 70px;
+    width: 130px;
+    color: white;
+    border-radius: 5px;
+}
+.btn1:hover{
+    background-color: transparent;
+    color: black;
+    border: 1px solid black;
+}
+
+.cont{
+    margin-top: 10%;
+}
+.cont h1{
+    font-weight: 700;
+}
+.cen{
+    display: flex;
+    margin-top: 5%;
+    justify-content: space-evenly ;
+
+}
+.add h6{
+    font-weight: 700;
+}
+.phone h6{
+    font-weight: 700;
+}
+.email h6{
+    font-weight: 700;
+}
+.c1{
+    margin-top: 5%;
+}
+.c2{
+    margin-top: 9%;
+}
+.c3{
+    margin-top: 15.5%;
+}
